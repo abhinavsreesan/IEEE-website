@@ -1,0 +1,17 @@
+HOME PAGE
+1.Add the drona workshop tile
+2.Add Sunita williams event tile
+3.Change the twitter and facebook links(at the top and bottom)
+
+ABOUT(Done) 
+1.Add place holder for new council members
+2.Add Images
+
+EVENTS
+1.add the link to drona workshop
+2.add the link to sunita williams event
+
+GALLERY(Done)
+1.Add the new tabs for drona workshop pics
+2.add the tab for sunita williams pics
+3.Add the images

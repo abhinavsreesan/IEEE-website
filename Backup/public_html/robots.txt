@@ -1,0 +1,8 @@
+Sitemap: http://www.ieee-siesgst.in/sitemap.xml
+User-Agent: *
+Disallow: /ieee/img
+Disallow: /ieee/img_external
+Disallow: /ieee/img_source
+Disallow: /ieee/js
+Disallow: /ieee/css
+Allow: /ieee
